@@ -1,0 +1,6 @@
+{
+  "name": "BinaryMind Academy",
+  "description": "An elite, interactive cybersecurity and computer science self-learning platform with safe simulators, programming hub, Capture The Flag challenges, and an integrated AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
